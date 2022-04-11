@@ -1,0 +1,11 @@
+1: Explain what the terminal is in your own words.
+
+	The terminal is an interface on the computer that uses text for typing commands, opening documents, and manipulating files. 
+
+2: What is the major difference between Git and Github?
+
+	Git is is a VCS or version control system that is free and open source, while GitHub is responsible for hosting and managing Git. 
+
+3: Why do we use Github?
+
+	We use GitHub so that way we can share our documents, projects, and programs. With it we can copy over code from our own terminals to an online format adn share to other teminals, otherwise everything we work on is only on our local terminals. 
